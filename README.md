@@ -123,9 +123,5 @@ See the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more details.
 
 ---
 
-## 8. License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 > **⚠️ Disclaimer:** This tool is strictly for authorized and ethical use. Unauthorized use is illegal and punishable under applicable laws.
 
