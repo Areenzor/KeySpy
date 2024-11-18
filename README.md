@@ -119,7 +119,7 @@ We welcome contributions from the community! To get started:
    ```
 5. Open a pull request.
 
-See the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more details.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 
 ---
 
