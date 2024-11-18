@@ -60,7 +60,7 @@ Feel free to submit a pull request for updates to files in the `docs/` folder.
 2. **Claim an Issue**: Comment on the issue you’d like to work on, so we can assign it to you.
 3. **Fork the Repository**: Clone your fork locally for development.
    ```bash
-   git clone https://github.com/mawg0ud/keyspy.git
+   git clone https://github.com/areenzor/keyspy.git
    cd keyspy
    ```
 
