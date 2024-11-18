@@ -26,7 +26,7 @@ Keyspy is a cutting-edge, cross-platform keylogger designed for ethical use in c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mawg0ud/keyspy.git
+   git clone https://github.com/areenzor/keyspy.git
    cd keyspy
    ```
 
