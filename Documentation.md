@@ -40,7 +40,7 @@ Before installing Keyspy, ensure you have:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/keyspy.git
+   git clone https://github.com/areenzor/keyspy.git
    cd keyspy
    ```
 2. Install dependencies:
