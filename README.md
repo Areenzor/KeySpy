@@ -2,6 +2,8 @@
 
 Keyspy is a cutting-edge, cross-platform keylogger designed for ethical use in cybersecurity research, authorized penetration testing, and educational purposes. With a focus on security and modularity, Keyspy offers advanced features like encrypted logging, remote log delivery, and flexible configurations.
 
+> **⚠️ Disclaimer:** This tool is strictly for authorized and ethical use. Unauthorized use is illegal and punishable under applicable laws.
+
 ---
 
 ## 1. Features
@@ -122,6 +124,4 @@ We welcome contributions from the community! To get started:
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 
 ---
-
-> **⚠️ Disclaimer:** This tool is strictly for authorized and ethical use. Unauthorized use is illegal and punishable under applicable laws.
 
